@@ -203,3 +203,5 @@ function positiveSum(arr) {
 ---
 
 **[⬆ Back to Top](#JavaScript-coding-challenges-Beginners)**
+
+## 6.
